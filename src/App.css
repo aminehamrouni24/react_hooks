@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.addMovie{
+  display: flex;
+  justify-content: center;
+ /* background-color: rgb(3, 3, 3);*/
+background-image:url('http://cr103.com/collections/Fractal/fractal--070209-41c.jpg')  ; 
+
+}

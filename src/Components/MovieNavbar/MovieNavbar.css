@@ -1,0 +1,12 @@
+.searchInput{
+    width : 40% !important;
+}
+.searchArea{
+    display: flex;
+    justify-content: space-between;
+    width:60% !important ;
+} 
+.log{
+    text-align: center;
+    width : 25% !important;
+}
